@@ -1,3 +1,38 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jloth.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = ""
+theme="archie"
+copyright = "© Jakob"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "Here I will document life, the universe and everything related to coding"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/lothran"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4

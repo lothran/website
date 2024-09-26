@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jloth.com/</loc>
+    <lastmod>2024-09-26T23:20:33+02:00</lastmod>
+  </url><url>
+    <loc>https://jloth.com/posts/first/</loc>
+    <lastmod>2024-09-26T23:20:33+02:00</lastmod>
+  </url><url>
+    <loc>https://jloth.com/posts/</loc>
+    <lastmod>2024-09-26T23:20:33+02:00</lastmod>
+  </url><url>
+    <loc>https://jloth.com/about/</loc>
+    <lastmod>2024-09-26T23:09:02+02:00</lastmod>
+  </url><url>
+    <loc>https://jloth.com/categories/</loc>
+  </url><url>
+    <loc>https://jloth.com/tags/</loc>
+  </url>
+</urlset>
